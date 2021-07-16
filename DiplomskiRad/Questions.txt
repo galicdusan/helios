@@ -1,0 +1,6 @@
+Studentski izbori
+Izaberite kandidata za studenta prodekana
+Dusan Galic,Marija Todorovic,Nenad Ciglic
+Izaberite omiljenu studentsku organizaciju
+SUFLETF,Proton,SSSSETF
+  
